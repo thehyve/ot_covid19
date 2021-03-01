@@ -10,6 +10,7 @@ RUN apt-get update \
     pandoc \
     software-properties-common \
     pipenv \
+    curl \
     libcurl4-openssl-dev \
     libssl-dev \
     libxml2-dev
